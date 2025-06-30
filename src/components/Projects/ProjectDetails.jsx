@@ -6,6 +6,7 @@ const ProjectDetails = () => {
   const { id } = useParams();
   const [project, setProject] = useState(null);
 
+  document.title = "Projects -- Nafiz's Portfolio"
   useEffect(() => {
     fetch("/projectData.json")
       .then((res) => res.json())

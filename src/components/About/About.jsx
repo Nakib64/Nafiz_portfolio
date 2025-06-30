@@ -4,7 +4,7 @@ import profilePic from "../../assets/profile.JPG"; // replace with your image
 
 const About = () => {
   return (
-    <section id="about" className="py-16 px-6 md:px-20 bg-white text-center md:text-left">
+    <section id="about" className="py-16 px-6  bg-white text-center md:text-left">
       <h2 className="text-3xl font-bold">About Me</h2>
       <p className="text-gray-500 mb-12">My introduction</p>
 

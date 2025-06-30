@@ -21,7 +21,7 @@ const SkillItem = ({ icon: Icon, skill, level }) => (
 
 const Skills = () => {
   return (
-    <section id="skills" className="py-16 px-6 md:px-20 text-center">
+    <section id="skills" className="py-16 px-6  text-center">
       <h2 className="text-3xl font-bold">Skills</h2>
       <p className="text-gray-500 mb-12">My technical level</p>
 

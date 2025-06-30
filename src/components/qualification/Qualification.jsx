@@ -19,7 +19,7 @@ const QualificationItem = ({ icon: Icon, title, subtitle, duration, animation })
 
 const Qualification = () => {
   return (
-    <section id="qualification" className="py-20 px-6 md:px-20 bg-white">
+    <section id="qualification" className="py-20 px-6  bg-white">
       <h2 className="text-3xl font-bold text-center mb-4">Qualification</h2>
       <p className="text-center text-gray-500 mb-12">My journey in education and web development</p>
 
