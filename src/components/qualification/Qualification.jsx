@@ -32,7 +32,7 @@ const Qualification = () => {
             title="BSc in Computer Science & Engineering"
             subtitle="Pabna University of Science and Technology"
             duration="2024 - Present"
-            animation="fade-right"
+            animation= "fade-up"
           />
         </div>
 
@@ -44,7 +44,7 @@ const Qualification = () => {
             title="MERN Stack Developer (in progress)"
             subtitle="Self-taught via courses & real-world projects"
             duration="1.5+ years experience"
-            animation="fade-left"
+            animation="fade-up"
           />
         </div>
       </div>

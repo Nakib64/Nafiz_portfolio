@@ -21,29 +21,31 @@ function App() {
 	}, []);
 
 	return (
-		<div
-			className="text bg-white  text-gray-700 max-w-7xl mx-auto"
-			data-theme="light"
-		>
+		<div className="w-full mx-auto">
 			<Navbar></Navbar>
-			<Hero></Hero>
-			<div id="about">
-				<About></About>
-			</div>
-			<div id="skills">
-				<Skills></Skills>
-			</div>
-			<div id="qualification">
-				<Qualification></Qualification>
-			</div>
+			<div
+				className="text bg-white  text-gray-700 max-w-7xl mx-auto"
+				data-theme="light"
+			>
+				<Hero></Hero>
+				<div id="about">
+					<About></About>
+				</div>
+				<div id="skills">
+					<Skills></Skills>
+				</div>
+				<div id="qualification">
+					<Qualification></Qualification>
+				</div>
 
-			<div id="contact">
-				<SocialLinks></SocialLinks>
+				<div id="contact">
+					<SocialLinks></SocialLinks>
+				</div>
+				<div id="projects">
+					<Projects></Projects>
+				</div>
 			</div>
-			<div id="projects">
-        <Projects></Projects>
-      </div>
-      <Footer></Footer>
+			<Footer></Footer>
 		</div>
 	);
 }

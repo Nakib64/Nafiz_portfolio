@@ -14,7 +14,7 @@ const Navbar = () => {
   const [menuOpen, setMenuOpen] = useState(false);
 
   return (
-    <header className="sticky top-0 z-50 bg-white shadow-md">
+    <header className="sticky top-0 z-50 bg-white shadow-md w-full">
       <div className="flex items-center justify-between px-6 md:px-20 py-4">
         <h1 className="text-xl font-bold text-gray-800">MyPortfolio</h1>
 
