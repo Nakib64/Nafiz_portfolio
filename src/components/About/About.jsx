@@ -21,7 +21,7 @@ const About = () => {
         {/* Info & Content */}
         <div className="flex flex-col gap-6 max-w-xl">
           {/* Cards */}
-          <div className="grid grid-cols-1 sm:grid-cols-3 gap-4 text-center">
+          <div className="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 gap-4 text-center">
             <div className="p-4 border rounded-xl shadow-sm">
               <FaBriefcase className="text-2xl mx-auto mb-2 text-gray-600" />
               <h3 className="font-semibold">Experience</h3>
