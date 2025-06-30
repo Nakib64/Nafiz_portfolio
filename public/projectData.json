@@ -7,7 +7,7 @@
     "technologies": ["React", "Tailwind CSS", "Firebase Auth", "MongoDB", "Express", "NodeJS", "JS"],
     "description": "A responsive, full-stack B2B wholesale eCommerce platform where users can browse and buy products in bulk. Built using the MERN stack, it features secure authentication, category-based filtering, a custom cart system, and a mobile-first UI that behaves like a native app on smaller screens.",
     "liveLink": "https://wholesale-11b32.web.app/",
-    "github": "https://github.com/yourusername/ecommerce-client",
+    "github": "https://github.com/Nakib64/WholeSaleMarket",
     "challenges": [
       "Mobile application type layout making was a little bit difficult",
       "Data filtering based on active products , buying at minimum quantity",

@@ -5,7 +5,7 @@ import profile from '../../assets/profile.JPG'
 const Hero = () => {
   return (
     <section className="flex flex-col md:flex-row-reverse items-center justify-between  md:px-16 md:py-20 gap-5">
-      <div className="mt-10 md:mt-0">
+      <div className="mt-10 md:mt-0" >
         <img
           src={profile}
           alt="Profile"
