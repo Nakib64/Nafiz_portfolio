@@ -1,0 +1,62 @@
+[
+  {
+    "id": 1,
+    "name": "B2B Wholesale Marketplace",
+    "image": "https://i.ibb.co/ycgP1FMY/wholesale-Cover.png",
+    "fullImage" : "https://i.ibb.co/rGfnfLd2/wholesale.png",
+    "technologies": ["React", "Tailwind CSS", "Firebase Auth", "MongoDB", "Express", "NodeJS", "JS"],
+    "description": "A responsive, full-stack B2B wholesale eCommerce platform where users can browse and buy products in bulk. Built using the MERN stack, it features secure authentication, category-based filtering, a custom cart system, and a mobile-first UI that behaves like a native app on smaller screens.",
+    "liveLink": "https://wholesale-11b32.web.app/",
+    "github": "https://github.com/yourusername/ecommerce-client",
+    "challenges": [
+      "Mobile application type layout making was a little bit difficult",
+      "Data filtering based on active products , buying at minimum quantity",
+      "Showing top products only a limited amount"
+    ],
+    "futurePlans": [
+      "I will add pagination here.",
+      "Integrate advanced search with filters",
+      "Improve accessibility and SEO",
+      "UI/UX will be more satisfying."
+    ]
+  },
+  {
+    "id": 2,
+    "name": "Plants Care",
+    "image": "https://i.ibb.co/1fg28D51/plants-b7145-web-app-7-1.png",
+     "fullImage" : "https://i.ibb.co/KjY8PhrH/plant-1.png",
+    "technologies": ["React", "Tailwind CSS", "ExpressJS", "Framer Motion", "NodeJs", "Firebase", "MongoDB"],
+    "description": "A responsive, full-stack Plant Care Management app where users can monitor plant health, track watering schedules, and manage plant data. Users can add or remove plants based on categories and receive helpful guidance for better plant care. Built with the MERN stack and robust CRUD functionality (POST, PUT, PATCH, DELETE).",
+
+    "liveLink": "https://plants-b7145.web.app/",
+    "github": "https://github.com/Nakib64/PlantCare?tab=readme-ov-file",
+    "challenges": [
+      "Designing responsive and modern layout",
+      "Adding smooth animations with Framer Motion",
+      "Create dark/light mode toggle"
+    ],
+    "futurePlans": [
+      "Adding notification system",
+      "Adding countdown after watering a plant"
+    ]
+  },
+   {
+    "id": 3,
+    "name": "Auction Gallery",
+    "image": "https://i.ibb.co/395fVjxB/Auction-Cover-1.png",
+     "fullImage" : "https://i.ibb.co/xS2XjZ0h/Auction.png",
+    "technologies": ["React", "Tailwind CSS", "JS", "Animation"],
+    "description": "A highly responsive front-end Auction Gallery application where users can explore and bid on gallery items with a clean and engaging user interface. Built with React and Tailwind CSS, the app features an authentication system, beautiful animations, and state management using React Context API — all without a backend.",
+
+    "liveLink": "https://sprightly-liger-6a3a4e.netlify.app/",
+    "github": "https://github.com/Nakib64/AuctionGallery",
+    "challenges": [
+      "Designing responsive and modern layout",
+      "Adding smooth animations with Framer Motion",
+      "Create delete from favourite"
+    ],
+    "futurePlans": [
+        "No future plan"
+    ]
+  }
+]
