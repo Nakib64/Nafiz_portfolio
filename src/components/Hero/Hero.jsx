@@ -13,7 +13,7 @@ const Hero = () => {
         />
       </div>
       <div className="text-center">
-        <h1 className="font-bold text-2xl md:text-6xl">Hi! I'am</h1>
+        <h1 className="font-bold text-2xl md:text-6xl">👋 Hi! I'am</h1>
         <h1 className="font-semibold text-xl md:text-5xl">Nafiz Uddowla Nakib,</h1>
         <h2 className="opacity-65 md:text-3xl"> a frontend-focused Mern-stack Developer</h2>
 
