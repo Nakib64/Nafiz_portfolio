@@ -1,7 +1,7 @@
 import React from "react";
 import { FaBriefcase, FaCheckSquare, FaHeadset, FaDownload } from "react-icons/fa";
 import profilePic from "../../assets/profile.JPG"; // replace with your image
-
+import '../../index.css'
 const About = () => {
   return (
     <section id="about" className="py-16 px-6  bg-white text-center md:text-left">
@@ -51,7 +51,7 @@ const About = () => {
             download
             className="inline-flex items-center gap-2 bg-black text-white px-6 py-3 rounded-lg w-max hover:bg-gray-800 transition"
           >
-            Download CV <FaDownload />
+            Download CV <FaDownload  className="float-icon"/>
           </a>
         </div>
       </div>

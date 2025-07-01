@@ -10,3 +10,19 @@
   font-variation-settings:
     "wdth" 100;
 }
+
+
+
+/* In your global CSS or tailwind styles */
+@keyframes float {
+  0%, 100% {
+    transform: translateX(0);
+  }
+  50% {
+    transform: translateX(6px);
+  }
+}
+
+.float-icon {
+  animation: float 2s ease-in-out infinite;
+}
