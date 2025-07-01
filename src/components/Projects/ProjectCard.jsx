@@ -23,12 +23,12 @@ const ProjectCard = ({ project }) => {
 					<h3 className="text-xl font-semibold mb-2 text-gray-800">
 						{project.name}
 					</h3>
-					<Link to={`project/${project.id}`} 
+					<button 
 						
 						className="mt-auto bg-black text-white text-sm px-4 py-2 rounded-lg hover:bg-gray-800 w-max transition"
 					>
 						View More
-					</Link>
+					</button>
 				</div>
 			</motion.div>
 		</Link>

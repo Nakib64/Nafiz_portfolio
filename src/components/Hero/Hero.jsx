@@ -15,7 +15,8 @@ const Hero = () => {
       <div className="text-center md:text-left">
         <h1 className="font-bold text-2xl md:text-6xl">Hi! I'am</h1>
         <h1 className="font-semibold text-xl md:text-5xl bg-gradient-to-r from-yellow-400 via-pink-500 to-purple-600 bg-clip-text text-transparent">Nafiz Uddowla Nakib,</h1>
-        <h2 className="opacity-65 md:text-3xl bg-gradient-to-r from-yellow-400 via-pink-500 to-purple-600 bg-clip-text text-transparent"> a Frontend-Focused Mern-stack Developer</h2>
+        <h2 className="opacity-65 md:text-3xl "> a Frontend-Focused Mern-stack Developer</h2>
+        <h2 className=" font-bold md:text-3xl bg-gradient-to-r from-yellow-400  to-pink-800 bg-clip-text text-transparent">Believe in clean UI</h2>
 
       </div>
     </section>
