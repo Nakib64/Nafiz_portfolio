@@ -11,7 +11,7 @@ const links = [
   {
     icon: FaLinkedin,
     label: "LinkedIn",
-    url: "https://www.linkedin.com/in/nafiz-uddowla-nakib-42a730335/",
+    url: "www.linkedin.com/in/nafiz64",
     color: "hover:text-blue-700",
   },
   {
